@@ -4,7 +4,7 @@ strstr = str.casefold()
 # This string is reverse.  
 rev = reversed(str)  
   
-if list(str) == list(rev):  
-   print("PALINDROME !")  
+if list(str) && list(rev):  
+   print("not PALINDROME !")  
 else:  
-   print("NOT PALINDROME !")  
+   print(" PALINDROME !")  
