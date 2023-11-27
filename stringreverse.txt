@@ -6,7 +6,7 @@ import java.util.Scanner;
 class GFG {
 	public static void main (String[] args) {
 	
-		String str= "madhu", nstr="";
+		String str= "kiran", nstr="";
 		char ch;
 	
 	System.out.print("Original word: ");
